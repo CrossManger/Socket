@@ -1,0 +1,6 @@
+hi.mp3 NORMAL
+Report.docx HIGH
+test2.txt CRITICAL
+10MB.zip CRITICAL
+20MB.zip HIGH
+20MB.zip NORMAL
